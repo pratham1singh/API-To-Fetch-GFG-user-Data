@@ -25,14 +25,27 @@ The API response will be in JSON format and will include the following fields:
 
 ```json
 {
-    "problems_solved": 150,
-    "ranking": 345,
-    "college_name": "ABC University",
-    "monthly_score": 1200,
-    "overall_score": 5000,
-    "problems_solved_category_wise": {
-        "Easy": ["Problem 1", "Problem 2"],
-        "Medium": ["Problem 3", "Problem 4"],
-        "Hard": ["Problem 5"]
-    }
+   
+    "instituteName": "Pranveer Singh Institute of Technology (PSIT) Kanpur",
+    "languages": "Python, Java, C++",
+    "rank": "174",
+    "streak": "11",
+    "overallScore": "620",
+    "monthlyScore": "2",
+    "totalSolved": "227",
+    "easy": [
+        "Problem 1",
+        "Problem 2",
+        ...
+    ],
+    "medium": [
+        "Problem 1",
+        "Problem 2",
+        ...
+    ],
+    "hard": [
+        "Problem 1",
+        "Problem 2",
+        ...
+    ]
 }
