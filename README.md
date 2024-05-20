@@ -5,7 +5,7 @@ This API allows you to fetch user data from GeeksforGeeks, including the number 
 ## Getting Started
 
 To fetch user data, make a GET request to the following endpoint:
-https://gfg-api-3.onrender.com/USER_NAME
+https://gfg-api-fefa.onrender.com/USER_NAME
 
 Sometimes due to network and traffic, this can take s to 2s time or some delay.
 This is completely free API with unlimited API calls.
