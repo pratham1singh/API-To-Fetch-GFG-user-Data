@@ -8,7 +8,11 @@ To fetch user data, make a GET request to the following endpoint:
 https://gfg-api-fefa.onrender.com/USER_NAME
 
 Sometimes due to network and traffic, this can take s to 2s time or some delay.
-This is completely free API with unlimited API calls.
+This is a completely free API with unlimited API calls.
+## Advice
+- As I have hosted this application on a free platform this may be slow in response.
+- I advise you to clone this and host individually then use it if you want a quick response.
+- Code Repo https://github.com/pratham1singh/GFG_API
 
 ## Response Format
 
